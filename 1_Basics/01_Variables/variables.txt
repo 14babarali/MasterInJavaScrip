@@ -1,0 +1,22 @@
+Step 4: Explanation and Practice
+Now, let's go through the explanation and practice together.
+
+Introduction to Variables
+Variables in JavaScript are used to store data that can be manipulated and retrieved later. Depending on how we want to use a variable, we can choose between var, let, and const.
+
+var
+Function Scoped: This means that a variable declared with var is available within the function it is declared.
+Re-declaration and Update: You can re-declare and update a var variable.
+Hoisting: var variables are hoisted to the top of their scope, meaning they can be used before they are declared, but they will be undefined.
+let
+Block Scoped: This means that a variable declared with let is only available within the block (e.g., { ... }) it is declared.
+Re-declaration: You cannot re-declare a let variable in the same scope.
+Update: You can update a let variable.
+Hoisting: let variables are hoisted to the top of their block but are not initialized.
+const
+Block Scoped: Similar to let, const is also block scoped.
+Re-declaration and Update: You cannot re-declare or update a const variable once it has been assigned a value.
+Hoisting: const variables are hoisted to the top of their block but are not initialized.
+Practice
+Open your variables.js file in VS Code.
+Run the file using Node.js (or in the browser console if you prefer).
