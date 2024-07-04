@@ -1,0 +1,7 @@
+course_id,coupon_type,coupon_code,start_date,start_time,custom_price
+32570434,free_open,FEB-FREE,2022-02-01,00:00,
+32570434,best_price,FEB-BEST,2022-02-25,12:00,
+32570434,custom_price,FEB-DEAL,2022-02-01,00:00,13.99
+53704353,free_targeted,FEB-FREE,2022-02-01,00:00,
+53704353,best_price,FEB-BEST,2022-02-01,00:00,
+53704353,best_price,FEB-DEAL,2022-02-10,00:00,
